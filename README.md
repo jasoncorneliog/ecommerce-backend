@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jasoncorneliog/ecommerce-backend">
-    <img src="images/ecommerce-backend.jpg" alt="Logo" width="100" height="100">
+    <img src="images/ecommerce-backend-updated.jpg" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">E-Commerce Backend</h3>
 
@@ -84,10 +84,16 @@ npm install
 
 ## Usage
 
-Spin up the ecommerce backend using the below command(s).
+1. Spin up the ecommerce backend using the below command(s).
 
 ```
 npm start
+```
+
+2. Now, you can make API calls to the ExpressJS server on the URL -
+
+```
+http://localhost:3000
 ```
 
 <!-- ROADMAP -->
