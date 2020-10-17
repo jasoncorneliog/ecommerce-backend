@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jasoncorneliog/ecommerce-backend">
-    <img src="images/ecommerce-backend-updated.jpg" alt="Logo" width="100" height="100">
+    <img src="images/ecommerce-backend-logo.jpg" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">E-Commerce Backend</h3>
 
